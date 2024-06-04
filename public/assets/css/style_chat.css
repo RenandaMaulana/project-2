@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+body {
+    background: #3fbbc0;
+}
+
+.wadah {
+    max-width: 500px;
+    min-height: 600px;
+    margin: 80px auto;
+    padding: 40px 30px 30px 30px;
+    background-color: #ffff;
+    border-radius: 15px;
+}
+
+.logo {
+    width: 80px;
+    margin: auto;
+}
